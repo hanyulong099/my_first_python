@@ -1,4 +1,5 @@
 # my_first_python
+'''测试unittest执行顺序'''
 import unittest
 import time
 class Test(unittest.TestCase):
